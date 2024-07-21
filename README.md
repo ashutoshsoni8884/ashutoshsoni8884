@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh Soni
 - 👀 I’m interested in Data, I like cleaning the data visualing it with my imagination...
 - 🌱 I’m currently learning all the technologies related to data analytics and making few projects day by day.
-- 💞️ I’m looking to collaborate on Linkedin. Do conect With me on Linkedin.
+- 💞️ I’m looking to collaborate on Linkedin. Do connect With me on Linkedin.
 
 
 <!---
